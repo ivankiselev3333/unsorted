@@ -24,7 +24,5 @@ C:\Windows\System32\cmd.exe /k D: & php Z:\scripts\timer.php
 
 
 
-ivankiselev3333@yandex.ru
-
 
 
