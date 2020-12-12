@@ -1,5 +1,5 @@
 TIMER with voice. Description.
-.....................................
+
 
 Basic illustration of concept, little digital ticking clock in cmd.exe or bash, launches music on time, or voices out text, remind on specific date and time, and 
 randomly reads aloud from list, on different time interval in the day. Use ramdisk since schedual, is reincluded, so if you add or change something in it, timer will update automatically. 
@@ -13,7 +13,7 @@ timer needs ink. with parrams C:\Windows\System32\cmd.exe /k D: & php Z:\scripts
 над добавить ярлык консольки ее предварительно ее кастомизирова закрепив на экране
 
 for it to work
-.....................................
+
 setup ramdisk put files there. 
 start cmd.exe 
 download govorilka(voice engine) & vlc or whatelse 
@@ -24,8 +24,8 @@ php timer.php
 + add shortcut for launching timer in cmd with dimensions set. //ink. C:\Windows\System32\cmd.exe /k D: & php Z:\scripts\timer.php 
 
 
-Otherfiles
----------------------------------------
+Otherfiles please ignore 
+
 Пару ахк 
 autokeys надо установить и скомпилировать ахк 
 получение буфера обмена с переносом в массив пхп clip
