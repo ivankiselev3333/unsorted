@@ -23,6 +23,6 @@ C:\Windows\System32\cmd.exe /k D: & php Z:\scripts\timer.php
 
 
 
-
+https://vk.com/id390394393
 
 
